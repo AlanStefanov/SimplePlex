@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Configuraciones con API keys / tokens
+config/
+
+# Datos multimedia y descargas
+data/
+transcode/
+
+# Basura
+log.txt
+*.log
